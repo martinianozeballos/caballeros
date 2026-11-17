@@ -6,7 +6,7 @@ def conectar():
         port = 3306,
         user='root',
         password='',
-        database='caballeros-zodiaco',
+        database='caballeros_zodiaco',
         charset= 'utf8mb4',
         # Implementacion interna con python
         use_pure=True
